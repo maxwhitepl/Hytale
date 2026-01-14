@@ -1793,13 +1793,13 @@ settings.category.uiVisibility = widocznosc interfejsu uzytkownika
 settings.category.displayNotifications = Wyswietlanie i powiadomienia
 
 # Etykiety szybkich ustawień
-settings.noClip = Brak klipu
+settings.noClip = No clip
 ustawienia.flightMode = Tryb lotu
-ustawienia.flightMode.hover = Hover
+ustawienia.flightMode.hover = Przytrzymaj
 ustawienia.flightMode.directional = Kierunkowy
 ustawienia.flightInertia = Bezwladnosc lotu
 ustawienia.flightSpeedMultiplier = Predkosc ruchu
-settings.airPlacement = Umiejscowienie powietrza
+settings.airPlacement = Umieszczanie w powietrzu
 settings.allowNPCDetection = Zezwalaj na wykrywanie NPC
 ustawienia.respondToHit = Odpowiedz na trafienie
 settings.toolReachDistance = Odleglosc zasiegu narzedzia
