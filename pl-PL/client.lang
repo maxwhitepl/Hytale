@@ -1,37 +1,37 @@
 # === Edytor zasobow ===
-aktywowEditor.mainMenu.connection.connecting = Łaczenie z serwerem...
+assetEditor.mainMenu.connection.connecting = Łaczenie z serwerem...
 assetEditor.mainMenu.connection.authenticating = Uwierzytelnianie...
-aktywowEditor.mainMenu.title = Otworz edytor
-aktywowEditor.mainMenu.cosmeticsEditor = Kosmetyki
+assetEditor.mainMenu.title = Otworz edytor
+assetEditor.mainMenu.cosmeticsEditor = Kosmetyki
 assetEditor.mainMenu.servers = Serwery
-aktywowEditor.mainMenu.disconnectionContainer.title = Rozlaczono z serwerem!
-aktywowEditor.mainMenu.disconnectionContainer.reconnect = Na nowo polacz
-aktywowEditor.mainMenu.connection.error.failedAuthentication = Nie udalo sie uwierzytelnic na urzadzeniu
+assetEditor.mainMenu.disconnectionContainer.title = Rozlaczono z serwerem!
+assetEditor.mainMenu.disconnectionContainer.reconnect = Na nowo polacz
+assetEditor.mainMenu.connection.error.failedAuthentication = Nie udalo sie uwierzytelnic na urzadzeniu
 assetEditor.mainMenu.connection.error.failedToEstablishConnection = Nie udalo sie nawiazac polaczenia z serwerem
-aktywowEditor.mainMenu.settingsButton = Ustawienia
+assetEditor.mainMenu.settingsButton = Ustawienia
 
-aktywowEditor.settings.title = Ustawienia
+assetEditor.settings.title = Ustawienia
 
-aktywowEditor.settings.setting.diagnosticMode = Tryb diagnozy
-aktywowEditor.settings.setting.useSystemLanguage = uzywany jezyka systemowego
+assetEditor.settings.setting.diagnosticMode = Tryb diagnozy
+assetEditor.settings.setting.useSystemLanguage = uzywany jezyka systemowego
 assetEditor.settings.setting.language = Jezyk
 assetEditor.settings.setting.fullscreen = Pelny ekran
 assetEditor.settings.setting.exportPath = Eksportuj folder
 assetEditor.settings.setting.exportPath.dialogTitle = Wybierz folder eksportu
-aktywowEditor.settings.setting.exportPath.dialogConfirmationButton = Wybierz jako folder eksportowy
+assetEditor.settings.setting.exportPath.dialogConfirmationButton = Wybierz jako folder eksportowy
 
-aktywowEditor.mainMenu.errors.failedToSaveServerList = Nie udalo sie zapisac listy serwerow
+assetEditor.mainMenu.errors.failedToSaveServerList = Nie udalo sie zapisac listy serwerow
 
-aktywowEditor.mainMenu.serverModal.titleAdd = Dodaj serwer
-aktywowEditor.mainMenu.serverModal.titleEdit = Edytuj serwer
-aktywowEditor.mainMenu.serverModal.errors.enterName = Prosze o podanie nazwy
-aktywowEditor.mainMenu.serverModal.errors.enterHostname = Prosze wymagac istnienia hosta
-aktywowEditor.mainMenu.serverModal.errors.nameAlreadyInUse = Ta nazwa jest juz uzywana.
+assetEditor.mainMenu.serverModal.titleAdd = Dodaj serwer
+assetEditor.mainMenu.serverModal.titleEdit = Edytuj serwer
+assetEditor.mainMenu.serverModal.errors.enterName = Prosze o podanie nazwy
+assetEditor.mainMenu.serverModal.errors.enterHostname = Prosze wymagac istnienia hosta
+assetEditor.mainMenu.serverModal.errors.nameAlreadyInUse = Ta nazwa jest juz uzywana.
 
-aktywowEditor.mainMenu.removeServerModal.title = Usuń serwer "{serverName}" z listami?
+assetEditor.mainMenu.removeServerModal.title = Usuń serwer "{serverName}" z listami?
 
-aktywowEditor.ipcServerConfirmation.title = Polacz sie z serwerem?
-aktywowEditor.ipcServerConfirmation.description = Czy chcesz rozdzielic sie z tym serwerem i polaczyc sie z nim? „{serverName}”?
+assetEditor.ipcServerConfirmation.title = Polacz sie z serwerem?
+assetEditor.ipcServerConfirmation.description = Czy chcesz rozdzielic sie z tym serwerem i polaczyc sie z nim? „{serverName}”?
 
 assetEditor.assetBrowser.searchAssetsPlaceholder = Wyszukaj zasoby
 assetEditor.assetBrowser.findAsset = Znajdz zasob
@@ -103,7 +103,7 @@ assetEditor.property.insertSiblingAfter = Wstaw rodzeństwo po
 assetEditor.property.list = Lista
 assetEditor.property.map = Mapa
 assetEditor.property.copyValue = Kopiuj wartosc
-aktywowEditor.property.pasteValue = Wklej wartosc
+assetEditor.property.pasteValue = Wklej wartosc
 assetEditor.property.map.insertLabel = Wstaw
 assetEditor.property.errors.keyAlreadyExists = Ten klucz jest juz uzywany
 
@@ -186,7 +186,7 @@ assetEditor.createAssetModal.title = Utworz nowy zasob {assetType}
 assetEditor.createAssetModal.assetPack = Pakiet zasobow
 assetEditor.createAssetModal.assetType = Typ zasobu
 assetEditor.createAssetModal.folder = Folder
-aktywowEditor.createAssetModal.assetId = Unikalny identyfikator zasobu
+assetEditor.createAssetModal.assetId = Unikalny identyfikator zasobu
 assetEditor.createAssetModal.assetIdHelp = Dozwolone znaki: AZ 0-9 _\\
 Przyklady: Wood_Ash_Roots, Zone3_Cloudy_Medium, Battleaxe_Swing_Left
 assetEditor.createAssetModal.copyAsset = Kopiuj zasob
@@ -374,7 +374,7 @@ assetEditor.newAssetButton.readOnlyPackTooltip = Nie mozna tworzyc nowych zasobo
 # === autoryzacja ===
 auth.sessionExpired.title = Sesja wygasla
 auth.sessionExpired.message = Nie mozna odswiezyc sesji. Zostales przelaczony w tryb offline.\n\nMozesz kontynuowac gre, ale nie bedziesz mogl dolaczac do serwerow ani rozpoczynac nowych swiatow, dopoki nie uruchomisz gry ponownie.
-# === lawka ===
+# === bench ===
 bench.Furniture_Bench = Stol warsztatowy do mebli
 bench.Builders = Warsztat Budowniczego
 bench.Armor_Bench = Warsztat platnerza
@@ -382,10 +382,10 @@ bench.Weapon_Bench = Kowadlo kowalskie
 bench.Workbench = Workbench
 bench.Farmingbench = Warsztat Rolnika
 bench.Farmingbench_old = Warsztat rolnika (stary)
-Ławka.Cookingbench = kuchenka szefa kuchni
-lawka.Ławka Loombench = Krosno
-Ławka.Zbrojownia = Kuznia
-lawka.Fieldcraft = Fieldcraft
+bench.Cookingbench = kuchenka szefa kuchni
+bench.bench Loombench = Krosno
+bench.Zbrojownia = Kuznia
+bench.Fieldcraft = Fieldcraft
 bench.Arcanebench = Warsztat Arcanisty
 bench.Alchemybench = Warsztat Alchemika
 bench.Template = Szablon
@@ -1073,7 +1073,7 @@ disconnection.autoConnectingIn = Łaczenie za {seconds}
 disconnection.error.unexpectedError = Wystapil nieoczekiwany blad
 disconnection.error.noConnectectionEstablished = Nie mozna nawiazac polaczenia
 # === Widok ladowania gry ===
-gameLoadingView.hints.constructionThanks = Dziekujemy za gre, poki jestesmy w budowie!
+gameLoadingView.hints.constructionThanks = Dziekujemy za kupno gry, poki jestesmy w budowie!
 gameLoadingView.hints.futureTipsAndTricks = Na tym ekranie znajdziesz porady i wskazowki, ktore pomoga Ci w Twojej przygodzie.
 
 gameLoadingView.status.waitingForShutdown = Oczekiwanie na zakończenie wylaczania serwera...
