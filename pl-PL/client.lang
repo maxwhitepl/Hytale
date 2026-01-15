@@ -28,15 +28,15 @@ assetEditor.mainMenu.serverModal.errors.enterName = Prosze o podanie nazwy
 assetEditor.mainMenu.serverModal.errors.enterHostname = Prosze wymagac istnienia hosta
 assetEditor.mainMenu.serverModal.errors.nameAlreadyInUse = Ta nazwa jest juz uzywana.
 
-assetEditor.mainMenu.removeServerModal.title = Usuń serwer "{serverName}" z listami?
+assetEditor.mainMenu.removeServerModal.title = Usun serwer "{serverName}" z listami?
 
 assetEditor.ipcServerConfirmation.title = Polacz sie z serwerem?
 assetEditor.ipcServerConfirmation.description = Czy chcesz rozdzielic sie z tym serwerem i polaczyc sie z nim? „{serverName}”?
 
 assetEditor.assetBrowser.searchAssetsPlaceholder = Wyszukaj zasoby
 assetEditor.assetBrowser.findAsset = Znajdz zasob
-assetEditor.assetBrowser.delete = Usuń
-assetEditor.assetBrowser.rename = Zmień nazwe
+assetEditor.assetBrowser.delete = Usun
+assetEditor.assetBrowser.rename = Zmien nazwe
 assetEditor.assetBrowser.duplicate = Duplikat
 assetEditor.assetBrowser.findInFolder = Znajdz w folderze
 assetEditor.assetBrowser.copyPath = Kopiuj sciezke
@@ -49,7 +49,7 @@ assetEditor.assetBrowser.create = Utworz {assetType}
 assetEditor.assetBrowser.tabs.cosmetics = Kosmetyki
 assetEditor.assetBrowser.tabs.server = Serwer
 assetEditor.assetBrowser.tabs.common = Common
-assetEditor.assetBrowser.tooltips.collapseAll = Zwiń wszystkie katalogi
+assetEditor.assetBrowser.tooltips.collapseAll = Zwin wszystkie katalogi
 assetEditor.assetBrowser.tooltips.createNewAsset = Utworz nowy zasob
 assetEditor.assetBrowser.tooltips.filter = Filtr
 assetEditor.assetBrowser.export = Eksportuj zasob
@@ -87,19 +87,19 @@ assetEditor.mode.source = Źrodlo
 assetEditor.editor.searchProperties = Wlasciwosci wyszukiwania
 
 assetEditor.property.title = Wlasciwosc "{name}"
-assetEditor.property.remove = Usuń
-assetEditor.property.renameKey = Zmień nazwe klucza
-assetEditor.property.moveDown = Przesuń w dol
-assetEditor.property.moveUp = Przesuń w gore
+assetEditor.property.remove = Usun
+assetEditor.property.renameKey = Zmien nazwe klucza
+assetEditor.property.moveDown = Przesun w dol
+assetEditor.property.moveUp = Przesun w gore
 assetEditor.property.createEmbeddedAsset = Konwertuj na zasob osadzony
 assetEditor.property.createDedicatedAsset = Konwertuj na dedykowany zasob
-assetEditor.property.collapseAllEntries = Zwiń wszystkie wpisy
-assetEditor.property.uncollapseAllEntries = Odwiń wszystkie wpisy
+assetEditor.property.collapseAllEntries = Zwin wszystkie wpisy
+assetEditor.property.uncollapseAllEntries = Odwin wszystkie wpisy
 assetEditor.property.openAssetInNewTab = Otworz zasob w nowej karcie
 assetEditor.property.copyAndReferenceAsset = Kopiuj i odwoluj sie do zasobu
 assetEditor.property.createAndReferenceAsset = Utworz i odwolaj sie do zasobu
-assetEditor.property.insertSiblingBefore = Wstaw rodzeństwo przed
-assetEditor.property.insertSiblingAfter = Wstaw rodzeństwo po
+assetEditor.property.insertSiblingBefore = Wstaw rodzenstwo przed
+assetEditor.property.insertSiblingAfter = Wstaw rodzenstwo po
 assetEditor.property.list = Lista
 assetEditor.property.map = Mapa
 assetEditor.property.copyValue = Kopiuj wartosc
@@ -113,8 +113,8 @@ assetEditor.property.tooltip.inheritedProperty = Odziedziczono po {asset} => {va
 assetEditor.property.tooltip.listEntries = {count} Wpisy listy
 assetEditor.property.tooltip.objectEntries = {count} Wpisy obiektow
 
-assetEditor.configEditor.button.collapseAll = Zwiń wszystko
-assetEditor.configEditor.button.expandAll = Rozwiń wszystko
+assetEditor.configEditor.button.collapseAll = Zwin wszystko
+assetEditor.configEditor.button.expandAll = Rozwin wszystko
 assetEditor.configEditor.button.showDefinedProperties = Przelacznik: Pokaz tylko zdefiniowane wlasciwosci
 assetEditor.configEditor.button.quickInspect = Szybka inspekcja
 
@@ -141,15 +141,15 @@ assetEditor.modal.applyChangesLocally = Zastosuj zmiany rowniez lokalnie
 
 assetEditor.deleteAssetModal.title = Usunac zasob?
 assetEditor.deleteAssetModal.text = Czy na pewno chcesz usunac „{assetId}”?
-assetEditor.deleteAssetModal.confirmButton = Usuń
+assetEditor.deleteAssetModal.confirmButton = Usun
 
 assetEditor.deleteDirectoryModal.title = Usunac folder?
 assetEditor.deleteDirectoryModal.text = Czy na pewno chcesz usunac „{path}”?
-assetEditor.deleteDirectoryModal.confirmButton = Usuń
+assetEditor.deleteDirectoryModal.confirmButton = Usun
 
-assetEditor.keyModal.renameTitle = Zmień nazwe klucza
+assetEditor.keyModal.renameTitle = Zmien nazwe klucza
 assetEditor.keyModal.insertTitle = Wstaw klawisz
-assetEditor.keyModal.renameButton = Zmień nazwe
+assetEditor.keyModal.renameButton = Zmien nazwe
 assetEditor.keyModal.insertButton = Wstaw
 assetEditor.keyModal.errors.existingKey = Wpis z tym kluczem juz istnieje!
 assetEditor.keyModal.errors.invalidProperty = Nieprawidlowa wlasciwosc
@@ -166,13 +166,13 @@ assetEditor.iconExporterModal.translationY = Pozycja Y
 assetEditor.iconExporterModal.scale = Skala
 assetEditor.iconExporterModal.errors.invalidConfig = Ten element nie jest poprawnie skonfigurowany do renderowania podgladu
 
-assetEditor.renameModal.titleAsset = Zmień nazwe zasobu
-assetEditor.renameModal.titleFolder = Zmień nazwe folderu
-assetEditor.renameModal.renameButton = Zmień nazwe
+assetEditor.renameModal.titleAsset = Zmien nazwe zasobu
+assetEditor.renameModal.titleFolder = Zmien nazwe folderu
+assetEditor.renameModal.renameButton = Zmien nazwe
 assetEditor.renameModal.newId = Nowy identyfikator
 assetEditor.renameModal.newName = Nowa nazwa
 assetEditor.renameModal.errors.invalidId = Podaj prawidlowy identyfikator. Identyfikator moze zawierac tylko litery i cyfry, a takze znak _ do oznaczania niektorych kategorii identyfikatorow.
-assetEditor.renameModal.warning = Ostrzezenie: Zmiana nazwy zasobu nie spowoduje zmiany odniesień do niego w innych plikach JSON. Ta czynnosc moze uszkodzic inne zasoby.
+assetEditor.renameModal.warning = Ostrzezenie: Zmiana nazwy zasobu nie spowoduje zmiany odniesien do niego w innych plikach JSON. Ta czynnosc moze uszkodzic inne zasoby.
 
 assetEditor.idValidation.empty = Pole id nie moze byc puste
 assetEditor.idValidation.minLength = Identyfikator musi skladac sie z co najmniej {count} znakow
@@ -180,7 +180,7 @@ assetEditor.idValidation.maxLength = Identyfikator nie moze skladac sie z wiecej
 assetEditor.idValidation.onlyLettersAndDigits = Identyfikator moze zawierac tylko litery i cyfry
 assetEditor.idValidation.firstUppercase = Pierwsza litera identyfikatora lub po podkresleniu musi byc wielka
 assetEditor.idValidation.firstLetter = Pierwszy znak identyfikatora lub po podkresleniu musi byc litera
-assetEditor.idValidation.underscoreEmpty = Identyfikator nie moze zaczynac sie ani kończyc znakiem podkreslenia, a po znaku podkreslenia nie moze nastepowac kolejny znak podkreslenia
+assetEditor.idValidation.underscoreEmpty = Identyfikator nie moze zaczynac sie ani konczyc znakiem podkreslenia, a po znaku podkreslenia nie moze nastepowac kolejny znak podkreslenia
 
 assetEditor.createAssetModal.title = Utworz nowy zasob {assetType}
 assetEditor.createAssetModal.assetPack = Pakiet zasobow
@@ -207,7 +207,7 @@ assetEditor.exportModal.discardChangesModal.title = Odrzucic zmiany?
 assetEditor.exportModal.discardChangesModal.text = Odrzuc zmiany {assetId} ({assetType})
 assetEditor.exportModal.discardChangesModal.confirmButton = Odrzuc zmiany
 assetEditor.exportModal.discardChangesCheckBox = Odrzuc zmiany na serwerze po eksporcie
-assetEditor.exportModal.discardChangesCheckBoxDescription = Jesli ta opcja jest aktywna, oryginalny stan wybranych zasobow zostanie przywrocony na serwerze poprzez ponowne zaladowanie ich z folderu zasobow. Jest to przydatne, gdy praca nad niektorymi zasobami jest zakończona i gotowa do wyslania do repozytorium, poniewaz pliki te zostana usuniete z tej listy. Jesli serwer i klient wspoldziela ten sam katalog zasobow (np. w trybie jednego gracza), ta opcja jedynie usuwa te wpisy z powyzszej listy.
+assetEditor.exportModal.discardChangesCheckBoxDescription = Jesli ta opcja jest aktywna, oryginalny stan wybranych zasobow zostanie przywrocony na serwerze poprzez ponowne zaladowanie ich z folderu zasobow. Jest to przydatne, gdy praca nad niektorymi zasobami jest zakonczona i gotowa do wyslania do repozytorium, poniewaz pliki te zostana usuniete z tej listy. Jesli serwer i klient wspoldziela ten sam katalog zasobow (np. w trybie jednego gracza), ta opcja jedynie usuwa te wpisy z powyzszej listy.
 assetEditor.exportModal.discardButtonTooltip = Odrzuc zmiany
 assetEditor.exportModal.columns.file = Plik
 assetEditor.exportModal.columns.lastChangeDate = Ostatnia zmiana
@@ -289,13 +289,13 @@ assetEditor.tabs.popup.closeAll = Zamknij wszystko
 assetEditor.tabs.popup.copyId = Kopiuj ID
 
 assetEditor.weatherDaytimeBar.togglePauseTime = Czas pauzy/kontynuacji
-assetEditor.weatherDaytimeBar.previousDay = Ustaw na poprzedni dzień
-assetEditor.weatherDaytimeBar.nextDay = Ustaw na nastepny dzień
+assetEditor.weatherDaytimeBar.previousDay = Ustaw na poprzedni dzien
+assetEditor.weatherDaytimeBar.nextDay = Ustaw na nastepny dzien
 assetEditor.weatherDaytimeBar.lockTimeAndWeather = Kliknij, aby przelaczyc wyswietlanie biezacej pogody i czasu nawet po opuszczeniu edytora zasobow
-assetEditor.weatherDaytimeBar.currentDay = Dzień {day, number}
+assetEditor.weatherDaytimeBar.currentDay = Dzien {day, number}
 
 assetEditor.initializeButton.inactive = Zainicjuj obiekt
-assetEditor.initializeButton.active = Usuń obiekt
+assetEditor.initializeButton.active = Usun obiekt
 
 assetEditor.fileSaveStatus.Saved = Zmiany zapisane
 assetEditor.fileSaveStatus.Saving = Zapisywanie zmian...
@@ -353,7 +353,7 @@ Wlasciwosci wykorzystujace wartosc z zasobu nadrzednego sa oznaczone gwiazdka *.
 
 assetEditor.managePacksMenu.editPack = Edytuj pakiet
 assetEditor.managePacksMenu.addPack = Dodaj pakiet
-assetEditor.managePacksMenu.removePack = Usuń pakiet
+assetEditor.managePacksMenu.removePack = Usun pakiet
 
 assetEditor.confirmationModal.typeToConfirm = Wpisz „{value}”, aby potwierdzic:
 
@@ -368,13 +368,13 @@ OSTRZEŻENIE: To NIEBEZPIECZNA operacja!\n\
 • Tej czynnosci nie mozna cofnac\n\
 \N\
 Kontynuuj tylko wtedy, gdy w pelni rozumiesz konsekwencje.
-assetEditor.deletePackModal.confirmButton = Usuń pakiet
+assetEditor.deletePackModal.confirmButton = Usun pakiet
 
 assetEditor.newAssetButton.readOnlyPackTooltip = Nie mozna tworzyc nowych zasobow, poniewaz wybrany pakiet zasobow jest tylko do odczytu.
 # === autoryzacja ===
 auth.sessionExpired.title = Sesja wygasla
 auth.sessionExpired.message = Nie mozna odswiezyc sesji. Zostales przelaczony w tryb offline.\n\nMozesz kontynuowac gre, ale nie bedziesz mogl dolaczac do serwerow ani rozpoczynac nowych swiatow, dopoki nie uruchomisz gry ponownie.
-# === bench ===
+# === lawka ===
 bench.Furniture_Bench = Stol warsztatowy do mebli
 bench.Builders = Warsztat Budowniczego
 bench.Armor_Bench = Warsztat platnerza
@@ -383,8 +383,8 @@ bench.Workbench = Workbench
 bench.Farmingbench = Warsztat Rolnika
 bench.Farmingbench_old = Warsztat rolnika (stary)
 bench.Cookingbench = kuchenka szefa kuchni
-bench.bench Loombench = Krosno
-bench.Zbrojownia = Kuznia
+bench.Loombench = Krosno
+bench.Armory = Kuznia
 bench.Fieldcraft = Fieldcraft
 bench.Arcanebench = Warsztat Arcanisty
 bench.Alchemybench = Warsztat Alchemika
@@ -441,7 +441,7 @@ benchCategories.Weapon_Mace = Bulawa
 benchCategories.Weapon_Battleaxe = Topor bojowy
 benchCategories.Weapon_Longsword = Miecz dlugi
 benchCategories.Workbench_Tools = Narzedzia
-benchCategories.Workbench_Weapons = Broń
+benchCategories.Workbench_Weapons = Bron
 benchCategories.Workbench_Tinkering = Majsterkowanie
 benchCategories.Workbench_Crafting = Rzemioslo
 benchCategories.Workbench_Farming = Rolnictwo
@@ -451,7 +451,7 @@ benchCategories.Sadlings = Sadzonki
 benchCategories.All = Wszystkie
 benchCategories.Prepared = Przygotowany
 benchCategories.Baked = Pieczone
-benchCategories.Weapons = Broń
+benchCategories.Weapons = Bron
 benchCategories.Tools = Narzedzia
 benchCategories.Arcane_Misc = Rozne
 benchCategories.Arcane_Portals = Portale
@@ -529,14 +529,14 @@ builderTools.legend.title = Legend
 builderTools.legend.pickMaterial = Wybierz material
 builderTools.legend.setMask = Ustaw jako maske
 builderTools.legend.addMask = Dodaj do maski
-builderTools.legend.changeHeight = Zmień wysokosc ksztaltu
-builderTools.legend.changeWidth = Zmień szerokosc ksztaltu
+builderTools.legend.changeHeight = Zmien wysokosc ksztaltu
+builderTools.legend.changeWidth = Zmien szerokosc ksztaltu
 builderTools.legend.favoriteMaterials = Ulubione materialy
 builderTools.legend.selectedMaterial = Wybrany material
 builderTools.legend.shiftFasterChange = Przytrzymaj Shift, aby szybciej wprowadzac zmiany
 builderTools.legend.undo = Cofnij
 builderTools.legend.redo = Powtorz
-builderTools.legend.addRemoveFavorite = Dodaj/usuń ulubiony material
+builderTools.legend.addRemoveFavorite = Dodaj/usun ulubiony material
 builderTools.legend.alt = Alt +
 builderTools.legend.shiftalt = Shift + Alt +
 builderTools.legend.shift = Shift +
@@ -552,7 +552,7 @@ builderTools.legend.PaintBrush.Page1.RedoLastUndo = Ponow ostatnio cofnieta akcj
 builderTools.legend.PaintBrush.Page1.EditInventoryProperties = Edytuj materialy, rozmiar, ksztalt i inne wlasciwosci z ekwipunku
 builderTools.legend.PaintBrush.Page1.AirPlacementTitle = Umiejscowienie powietrza
 builderTools.legend.PaintBrush.Page1.AirPlacementHotkey = Przelacz tryb celowania w powietrzu
-builderTools.legend.PaintBrush.Page1.AirPlacementDistanceChange = Zmień odleglosc rozmieszczenia powietrza
+builderTools.legend.PaintBrush.Page1.AirPlacementDistanceChange = Zmien odleglosc rozmieszczenia powietrza
 builderTools.legend.PaintBrush.Page2.Title = Blokada osi i maskowanie
 builderTools.legend.PaintBrush.Page2.AxisLock = Blokada osi
 builderTools.legend.PaintBrush.Page2.AxisLockDescription = Pozwala przykleic pedzel do plaskiej, ruchomej i obrotowej powierzchni. Ponizsze skroty klawiszowe umozliwiaja wyswietlanie, edycje i wyjscie z trybu powierzchni.
@@ -566,10 +566,10 @@ builderTools.legend.PaintBrush.Page2.BrushMenuMaskingTab = Karta maskowania menu
 builderTools.legend.PaintBrush.Page2.MaskConfigDescription = Kliknij ikone olowka w prawym gornym rogu, aby przejsc do panelu „Konfiguracja maski”. Mozesz tam tworzyc bardziej zlozone maski, uzywajac przedmiotow z ekwipunku. Najedz kursorem na terminy w panelu interfejsu, aby uzyskac wiecej informacji.
 builderTools.legend.PaintBrush.Page3.Title = Skryptowalne pedzle / Umiejscowienie powietrza
 builderTools.legend.PaintBrush.Page3.Description = Pedzle skryptowalne\n\
-Mozesz tworzyc niestandardowa logike rozmieszczania blokow, uzywajac poleceń i zasobow, takich jak „Pedzel rzeczny”, „Pedzel gorski” i dowolnego innego pedzla, jaki sobie wyobrazisz!
+Mozesz tworzyc niestandardowa logike rozmieszczania blokow, uzywajac polecen i zasobow, takich jak „Pedzel rzeczny”, „Pedzel gorski” i dowolnego innego pedzla, jaki sobie wyobrazisz!
 builderTools.legend.PaintBrush.Page3.CreateBrushesDescription = Aby utworzyc wlasne pedzle, zapoznaj sie z przykladami dostepnymi w katalogu Assets/MacroCommands/Brushes/ w zasobach. Mozesz skorzystac z polecenia /help w grze, aby dowiedziec sie wiecej o kazdej dostepnej operacji konfiguracji pedzli. Musisz rowniez utworzyc element pedzla; przyklady takich elementow znajdziesz w katalogu Assets/Server/Item/Items/EditorTool/ScriptedBrushes/.
 builderTools.legend.PaintBrush.Page3.TestingBrushesTitle = Testowanie pedzli programistycznych
-builderTools.legend.PaintBrush.Page3.TestingBrushesDescription = Uzyj '/sb load', aby otworzyc interfejs uzytkownika i przejrzec wszystkie dostepne pedzle ze skryptami, lub '/sb load <name>', aby bezposrednio zaladowac konkretny pedzel. Pozwala to testowac pedzle bez koniecznosci wczesniejszego tworzenia elementu. Uzyj '/sb clear', aby wylaczyc te opcje po zakończeniu.
+builderTools.legend.PaintBrush.Page3.TestingBrushesDescription = Uzyj '/sb load', aby otworzyc interfejs uzytkownika i przejrzec wszystkie dostepne pedzle ze skryptami, lub '/sb load <name>', aby bezposrednio zaladowac konkretny pedzel. Pozwala to testowac pedzle bez koniecznosci wczesniejszego tworzenia elementu. Uzyj '/sb clear', aby wylaczyc te opcje po zakonczeniu.
 
 builderTools.legend.LineBrush.Page1.Title = Pedzel liniowy
 builderTools.legend.LineBrush.Page1.Description = Umozliwia budowanie prostych linii blokow
@@ -601,7 +601,7 @@ builderTools.legend.MachinimaTool.Page1.AddingCameraActor = Dodawanie aktora kam
 builderTools.legend.MachinimaTool.Page2.Title = Typy aktorow
 builderTools.legend.MachinimaTool.Page2.Description = Rozne typy aktorow sluza roznym celom w Twojej machinima. Wszystkie to animowane obiekty, ktore pozwalaja kontrolowac pozycje, obrot i inne wartosci. Aktorow dodaje sie za pomoca menu Machinima.
 builderTools.legend.MachinimaTool.Page2.CameraHeader = Kamera
-builderTools.legend.MachinimaTool.Page2.CameraDesc = Umozliwia przesuwanie kamery po sciezkach i animowanie roznych ustawień, takich jak pole widzenia i predkosc.
+builderTools.legend.MachinimaTool.Page2.CameraDesc = Umozliwia przesuwanie kamery po sciezkach i animowanie roznych ustawien, takich jak pole widzenia i predkosc.
 builderTools.legend.MachinimaTool.Page2.EntityHeader = Entity
 builderTools.legend.MachinimaTool.Page2.EntityDesc = Animowane postacie z modelami. Obsluguje obrot ciala/glowy i zdarzenia animacji.
 builderTools.legend.MachinimaTool.Page2.PlayerHeader = Player
@@ -617,7 +617,7 @@ builderTools.legend.MachinimaTool.Page3.Title = Sterowanie odtwarzaniem
 builderTools.legend.MachinimaTool.Page3.Description = Kontrolki odtwarzania umozliwiaja podglad sceny poprzez animowanie wszystkich aktorow wzdluz sciezek klatek kluczowych. Uzywaj ich do przewijania w czasie, przeskakiwania miedzy klatkami kluczowymi i testowania animacji. Kazda klatka aktualizuje wszystkich aktorow wzdluz sciezek klatek kluczowych, uruchamiajac animacje.
 builderTools.legend.MachinimaTool.Page3.TogglePause = Przelacz odtwarzanie / pauza
 builderTools.legend.MachinimaTool.Page3.ContinuousPlayback = Przelacz ciagle odtwarzanie (petle)
-builderTools.legend.MachinimaTool.Page3.AutoRestart = Przelaczanie automatycznego ponownego uruchamiania po zakończeniu sceny
+builderTools.legend.MachinimaTool.Page3.AutoRestart = Przelaczanie automatycznego ponownego uruchamiania po zakonczeniu sceny
 builderTools.legend.MachinimaTool.Page3.RestartScene = Uruchom ponownie scene od poczatku
 builderTools.legend.MachinimaTool.Page3.EndScene = Przejdz do ostatniej klatki
 builderTools.legend.MachinimaTool.Page3.NavigationTitle = Nawigacja po ramkach:
@@ -627,14 +627,14 @@ builderTools.legend.MachinimaTool.Page3.SpeedModifiers = Przytrzymaj SHIFT, aby 
 
 builderTools.legend.MachinimaTool.Page4.Title = Edycja klatek kluczowych
 builderTools.legend.MachinimaTool.Page4.Description = Klatki kluczowe definiuja pozycje, obrot i ustawienia aktora w okreslonych punktach czasowych. System interpoluje miedzy klatkami kluczowymi, aby tworzyc plynne sciezki animacji. Dodawaj klatki kluczowe, aby tworzyc ruch, edytuj je, aby precyzyjnie dostroic czas i pozycjonowanie.
-builderTools.legend.MachinimaTool.Page4.AddKeyframe = Dodaj nowa klatke kluczowa na końcu sciezki aktora, rozszerzajac animacje
+builderTools.legend.MachinimaTool.Page4.AddKeyframe = Dodaj nowa klatke kluczowa na koncu sciezki aktora, rozszerzajac animacje
 builderTools.legend.MachinimaTool.Page4.AddAtCurrentFrame = Wstaw klatke kluczowa w biezacej pozycji odtwarzania
 builderTools.legend.MachinimaTool.Page4.CopyKeyframe = Kopiuj wybrane ustawienia klatki kluczowej, aby wkleic je do innego aktora lub klatki
-builderTools.legend.MachinimaTool.Page4.DeleteKeyframe = Usuń klatke kluczowa, nad ktora najezdzasz kursorem
+builderTools.legend.MachinimaTool.Page4.DeleteKeyframe = Usun klatke kluczowa, nad ktora najezdzasz kursorem
 builderTools.legend.MachinimaTool.Page4.EditKeyframe = Otworz narzedzie Gizmo, aby dostosowac polozenie i obrot klatki kluczowej
-builderTools.legend.MachinimaTool.Page4.MoveActor = Zmień polozenie calej sciezki aktora jako calosci
-builderTools.legend.MachinimaTool.Page4.EditFrameTime = Zmień, kiedy ta klatka kluczowa wystepuje na osi czasu
-builderTools.legend.MachinimaTool.Page4.AdjustFrameTime = Przesuń czas trwania klatki kluczowej do przodu lub do tylu
+builderTools.legend.MachinimaTool.Page4.MoveActor = Zmien polozenie calej sciezki aktora jako calosci
+builderTools.legend.MachinimaTool.Page4.EditFrameTime = Zmien, kiedy ta klatka kluczowa wystepuje na osi czasu
+builderTools.legend.MachinimaTool.Page4.AdjustFrameTime = Przesun czas trwania klatki kluczowej do przodu lub do tylu
 
 builderTools.legend.MachinimaTool.Page5.Title = Interakcje myszy
 builderTools.legend.MachinimaTool.Page5.Description = Kliknij wezly klatek kluczowych w swiecie, aby wejsc w interakcje:
@@ -667,7 +667,7 @@ builderTools.legend.MachinimaTool.Page7.ToggleFrustum = Przelacz wyswietlanie fr
 builderTools.legend.MachinimaTool.Page7.OriginTitle = Sterowanie pochodzeniem sceny:
 builderTools.legend.MachinimaTool.Page7.GoToOrigin = Teleportacja do poczatku sceny
 builderTools.legend.MachinimaTool.Page7.SetOrigin = Ustaw poczatek sceny na pozycje gracza
-builderTools.legend.MachinimaTool.Page7.OffsetToOrigin = Przesuń cala scene do pozycji gracza
+builderTools.legend.MachinimaTool.Page7.OffsetToOrigin = Przesun cala scene do pozycji gracza
 
 builderTools.legend.MachinimaTool.Page8.Title = Sciezki i krzywe
 builderTools.legend.MachinimaTool.Page8.Description = Wybierz sposob interpolacji klatek kluczowych:
@@ -683,10 +683,10 @@ builderTools.legend.MachinimaTool.Page8.SmoothBezier = Gladkie uchwyty
 builderTools.legend.MachinimaTool.Page8.EnableSpline = Wlacz krzywa
 
 builderTools.legend.MachinimaTool.Page9.Title = Polecenia konsoli
-builderTools.legend.MachinimaTool.Page9.SceneCommands = Scena: .mach scene [lista | dodaj | usuń | zapisz | wczytaj | skopiuj | ustaw | zmień nazwe | obroc | wyczysc]
-builderTools.legend.MachinimaTool.Page9.ActorCommands = Aktor: .mach aktor [lista | dodaj | usuń | ustaw | model | przesuń | klonuj | obroc | skaluj | wyczysc]
-builderTools.legend.MachinimaTool.Page9.EventCommands = Zdarzenia: .mach event [lista | dodaj | usuń]\n\
-Typy zdarzeń: animacja, kamera, polecenie, czasteczka, cel
+builderTools.legend.MachinimaTool.Page9.SceneCommands = Scena: .mach scene [lista | dodaj | usun | zapisz | wczytaj | skopiuj | ustaw | zmien nazwe | obroc | wyczysc]
+builderTools.legend.MachinimaTool.Page9.ActorCommands = Aktor: .mach aktor [lista | dodaj | usun | ustaw | model | przesun | klonuj | obroc | skaluj | wyczysc]
+builderTools.legend.MachinimaTool.Page9.EventCommands = Zdarzenia: .mach event [lista | dodaj | usun]\n\
+Typy zdarzen: animacja, kamera, polecenie, czasteczka, cel
 builderTools.legend.MachinimaTool.Page9.FileCommands = Pliki: .mach zapisz | zaladuj | pliki | zip | autozapis [sekundy]
 builderTools.legend.MachinimaTool.Page9.UtilityCommands = Utility: .mach tool | fps [wartosc] | speed [wartosc] | align | demo [1-7] | restart
 
@@ -703,13 +703,13 @@ builderTools.legend.PasteTool.Page1.RotatePrefabZ = Obroc wokol osi Z
 builderTools.legend.PasteTool.Page1.ShowTexture = Przelacz teksture blokow
 builderTools.legend.PasteTool.Page1.CycleOrigin = Poczatek cyklu (dol/srodek/gora)
 builderTools.legend.PasteTool.Page2.Title = Klawisze modyfikujace
-builderTools.legend.PasteTool.Page2.ShiftPrefabLeftRight = Przesuń prefabrykat w lewo lub w prawo
-builderTools.legend.PasteTool.Page2.ShiftPrefabForwardBackward = Przesuń prefabrykat do przodu lub do tylu
-builderTools.legend.PasteTool.Page2.ShiftPrefabUp = Przesuń prefabrykat w gore
-builderTools.legend.PasteTool.Page2.ShiftPrefabDown = Przesuń prefabrykat w dol
+builderTools.legend.PasteTool.Page2.ShiftPrefabLeftRight = Przesun prefabrykat w lewo lub w prawo
+builderTools.legend.PasteTool.Page2.ShiftPrefabForwardBackward = Przesun prefabrykat do przodu lub do tylu
+builderTools.legend.PasteTool.Page2.ShiftPrefabUp = Przesun prefabrykat w gore
+builderTools.legend.PasteTool.Page2.ShiftPrefabDown = Przesun prefabrykat w dol
 builderTools.legend.PasteTool.Page2.RotatePrefabLeftRight = Obroc prefabrykat w lewo lub w prawo
-builderTools.legend.PasteTool.Page2.RollPrefabLeftRight = Przewiń prefabrykat w lewo lub w prawo
-builderTools.legend.PasteTool.Page2.RollPrefabForwardBackward = Przewiń prefabrykat do przodu lub do tylu
+builderTools.legend.PasteTool.Page2.RollPrefabLeftRight = Przewin prefabrykat w lewo lub w prawo
+builderTools.legend.PasteTool.Page2.RollPrefabForwardBackward = Przewin prefabrykat do przodu lub do tylu
 builderTools.legend.PasteTool.Page2.ResetShifting = Resetuj przesuniecie
 
 builderTools.legend.SculptBrush.Page1.Title = Pedzel do rzezbienia
@@ -729,10 +729,10 @@ builderTools.legend.SelectionTool.Page1.HoldAndDrag = 1. Przytrzymaj i przeciagn
 builderTools.legend.SelectionTool.Page1.AdjustAndClick = 2. Dostosuj polozenie myszy, a nastepnie kliknij ponownie, aby ustawic trzeci wymiar
 builderTools.legend.SelectionTool.Page1.ClearSelection = Wyczysc zaznaczenie
 builderTools.legend.SelectionTool.Page1.ClickDragPanels = Kliknij i przeciagnij na panelach wyboru
-builderTools.legend.SelectionTool.Page1.ChangeSelectionSize = Zmień rozmiar zaznaczenia
+builderTools.legend.SelectionTool.Page1.ChangeSelectionSize = Zmien rozmiar zaznaczenia
 builderTools.legend.SelectionTool.Page1.MoveSelection = Przenies zaznaczenie
 builderTools.legend.SelectionTool.Page1.ExtrudeFace = Wyciagnij sciane
-builderTools.legend.SelectionTool.Page1.MultipleSelections = Wiele zaznaczeń:
+builderTools.legend.SelectionTool.Page1.MultipleSelections = Wiele zaznaczen:
 builderTools.legend.SelectionTool.Page1.NextSelection = Nastepny wybor
 builderTools.legend.SelectionTool.Page1.PreviousSelection = Poprzedni wybor
 builderTools.legend.SelectionTool.Page1.SetRedPoint = Ustaw czerwony punkt na cel
@@ -763,19 +763,19 @@ builderTools.legend.SelectionTool.Page3.BasicCommands = Podstawowe polecenia:\n\
 - /cut [Wycina zaznaczenie do schowka]\n\
 - /paste [Wkleja zawartosc schowka w wybranym miejscu]\n\
 - /stack [Uklada zaznaczenie w kierunku, w ktorym patrzysz, X ​​razy]\n\
-- /replace [Zamień jeden material na inny]\n\
+- /replace [Zamien jeden material na inny]\n\
 - /hollow [Wydraza ksztalt, pozostawiajac srodek pusty]\n\
 - /flip [Odbij bloki w kierunku, w ktorym patrzysz]\n\
 - /rotate [Obroc zaznaczenie]\n\
 - /expand [Rozszerz zaznaczenie w kierunku, w ktorym patrzysz]\n\
 - /contract [Zmniejsz zaznaczenie o okreslona odleglosc]\n\
 - /deselect [Wyczysc pole wyboru]
-builderTools.legend.SelectionTool.Page3.SeeHelpMenu = Zobacz menu '/help' aby uzyskac wiecej poleceń, ktore mozesz uruchomic na swoim zaznaczeniu!
+builderTools.legend.SelectionTool.Page3.SeeHelpMenu = Zobacz menu '/help' aby uzyskac wiecej polecen, ktore mozesz uruchomic na swoim zaznaczeniu!
 
 builderTools.legend.RulerTool.Page1.Title = Podstawowe pomiary
 builderTools.legend.RulerTool.Page1.Description = Narzedzie Linijka umozliwia mierzenie odleglosci miedzy wieloma punktami w przestrzeni 3D, z obsluga wielu linii pomiarowych.
 builderTools.legend.RulerTool.Page1.PlacePoint = Umiesc punkt pomiarowy w miejscu docelowym
-builderTools.legend.RulerTool.Page1.EndCurrentLine = Zakończ biezaca linie pomiaru i rozpocznij nowa
+builderTools.legend.RulerTool.Page1.EndCurrentLine = Zakoncz biezaca linie pomiaru i rozpocznij nowa
 builderTools.legend.RulerTool.Page1.SnapToAngles = Przytrzymaj, aby wlaczyc przyciaganie do katow 45° w celu uzyskania precyzyjnych pomiarow
 builderTools.legend.RulerTool.Page1.DistanceMeasurement = Pomiary odleglosci sa wyswietlane w kazdym punkcie i wzdluz kazdego odcinka. Linie sa oznaczone kolorami: czerwony (os X), zielony (os Y), niebieski (os Z), bialy (przekatna).
 
@@ -783,7 +783,7 @@ builderTools.legend.RulerTool.Page2.Title = Edycja punktow i linii
 builderTools.legend.RulerTool.Page2.PointEditing = Edycja istniejacych punktow:
 builderTools.legend.RulerTool.Page2.MovePoint = Kliknij prawym przyciskiem myszy istniejacy punkt, aby go podniesc i przeniesc
 builderTools.legend.RulerTool.Page2.DropPoint = Kliknij prawym przyciskiem myszy ponownie, aby upuscic punkt w nowej lokalizacji
-builderTools.legend.RulerTool.Page2.DeletePoint = Usuń najechany punkt
+builderTools.legend.RulerTool.Page2.DeletePoint = Usun najechany punkt
 builderTools.legend.RulerTool.Page2.ClearCurrentLine = Wyczysc wszystkie punkty z biezacej linii
 builderTools.legend.RulerTool.Page2.ClearAllLines = Wyczysc wszystkie linie i zresetuj narzedzie
 
@@ -792,7 +792,7 @@ builderTools.legend.RulerTool.Page3.Description = Narzedzie Linijka umozliwia tw
 builderTools.legend.RulerTool.Page3.NextLine = Przejdz do nastepnej linii pomiaru
 builderTools.legend.RulerTool.Page3.PreviousLine = Przejdz do poprzedniej linii pomiaru
 builderTools.legend.RulerTool.Page3.SwitchToLine = Kliknij lewym przyciskiem myszy punkt innej linii, aby przejsc do tej linii
-builderTools.legend.RulerTool.Page3.WorkflowTip = Wskazowka: Po umieszczeniu punktow na jednej linii, kliknij lewym przyciskiem myszy, aby ja zakończyc i automatycznie rozpoczac nowa linie. Nieaktywne linie sa wyswietlane z mniejsza przezroczystoscia.
+builderTools.legend.RulerTool.Page3.WorkflowTip = Wskazowka: Po umieszczeniu punktow na jednej linii, kliknij lewym przyciskiem myszy, aby ja zakonczyc i automatycznie rozpoczac nowa linie. Nieaktywne linie sa wyswietlane z mniejsza przezroczystoscia.
 
 builderTools.legend.SelectPrefabTool.Page1.Title = Selektor prefabrykatow
 builderTools.legend.SelectPrefabTool.Page1.Description = Edytor prefabrykatow tworzy tymczasowe srodowisko do edycji prefabrykatow i ich ponownego zapisywania. Jesli opuscisz edytor prefabrykatow bez zapisania, zmiany zostana utracone.
@@ -800,7 +800,7 @@ builderTools.legend.SelectPrefabTool.Page1.SelectingPrefabs = Wybieranie prefabr
 builderTools.legend.SelectPrefabTool.Page1.SelectPrefab = Wybierz prefabrykat, klikajac jego kotwice
 builderTools.legend.SelectPrefabTool.Page1.UnselectPrefab = Odznacz aktualnie wybrany prefabrykat
 builderTools.legend.SelectPrefabTool.Page1.EditingPrefabs = Edycja prefabrykatow:
-builderTools.legend.SelectPrefabTool.Page1.OpenSaveUI = Otworz interfejs uzytkownika zapisywania/ustawień
+builderTools.legend.SelectPrefabTool.Page1.OpenSaveUI = Otworz interfejs uzytkownika zapisywania/ustawien
 builderTools.legend.SelectPrefabTool.Page1.UpdateBoundingBox = Aktualizuje pole ograniczajace wybranego prefabrykatu zgodnie z biezacym wyborem
 builderTools.legend.SelectPrefabTool.Page1.TeleportToPrefab = Otworz interfejs uzytkownika teleportacji do prefabrykatu
 builderTools.legend.SelectPrefabTool.Page1.SetAnchorTitle = Narzedzie do ustawiania kotwic:
@@ -816,7 +816,7 @@ builderTools.tools.Paste.args.Origin.values.Center = Center
 builderTools.tools.Paste.args.Origin.values.Top = Top
 
 builderTools.legend.EntityTool.Page1.Title = Narzedzie encji
-builderTools.legend.EntityTool.Page1.Description = Tworz postacie niezalezne (NPC) i modele przedmiotow, blokow i stworzeń. Wybieraj, przesuwaj, obracaj i skaluj obiekty w swoim swiecie.
+builderTools.legend.EntityTool.Page1.Description = Tworz postacie niezalezne (NPC) i modele przedmiotow, blokow i stworzen. Wybieraj, przesuwaj, obracaj i skaluj obiekty w swoim swiecie.
 builderTools.legend.EntityTool.Page1.SelectingEntities = Wybieranie encji:
 builderTools.legend.EntityTool.Page1.SelectEntity = Wybierz/chwyc encje
 builderTools.legend.EntityTool.Page1.FreeMove = Swobodny ruch obiektu (przytrzymaj i przeciagnij)
@@ -834,7 +834,7 @@ builderTools.legend.EntityTool.Page2.Scale = Skaluj wybrany obiekt
 builderTools.legend.EntityTool.Page3.Title = Akcje
 builderTools.legend.EntityTool.Page3.EntityActions = Akcje encji:
 builderTools.legend.EntityTool.Page3.Clone = Klonuj wybrany obiekt
-builderTools.legend.EntityTool.Page3.Remove = Usuń wybrana jednostke
+builderTools.legend.EntityTool.Page3.Remove = Usun wybrana jednostke
 builderTools.legend.EntityTool.Page3.Freeze = Przelacz zamrozenie encji
 builderTools.legend.EntityTool.Page3.MovementOptions = Opcje ruchu:
 builderTools.legend.EntityTool.Page3.SurfaceLock = Przelacz tryb blokady powierzchni
@@ -852,7 +852,7 @@ builderTools.panel.entityRotation = Obrot
 builderTools.panel.entityScale = Skala
 builderTools.panel.entityAllowPickup = Zezwalaj na odbior
 builderTools.panel.entityClone = Klon
-builderTools.panel.entityRemove = Usuń
+builderTools.panel.entityRemove = Usun
 builderTools.panel.entityPin = Przypnij jednostke
 builderTools.panel.entityUnpin = Odepnij jednostke
 builderTools.panel.surfaceLock = Zablokuj do powierzchni
@@ -872,7 +872,7 @@ builderTools.entityModel.fallback.unknown = #{id}
 
 builderTools.panel.entityLightEnabled = Swiatlo wlaczone
 builderTools.panel.entityLightColor = Kolor swiatla
-builderTools.panel.entityLightRadius = Promień swiatla
+builderTools.panel.entityLightRadius = Promien swiatla
 builderTools.panel.npcDebug = Debugowanie NPC
 builderTools.panel.npcState = Stan
 builderTools.panel.npcHealth = Zdrowie
@@ -893,7 +893,7 @@ codex.sliding.description = Podczas sprintu nacisnij klawisz „Kucnij”, aby w
 
 codex.rolling = Toczacy sie
 codex.rolling.description = Podczas spadania przytrzymaj klawisz „Kucanie”, aby sie przetoczyc i zniwelowac obrazenia od upadku.
-# === potwierdzZakończ nakladke ===
+# === potwierdzZakoncz nakladke ===
 confirmQuitOverlay.title = Wyjdz z gry
 confirmQuitOverlay.text = Czy na pewno chcesz wyjsc?
 
@@ -950,7 +950,7 @@ contentCreation.navigation.worldtools.prefabList = Lista prefabrykatow
 contentCreation.navigation.worldtools.prefabList.tooltipTitle = Wyswietla liste wszystkich prefabrykatow utworzonych przez uzytkownika; kliknij jeden z nich, aby zaladowac go do narzedzia wklejania.
 contentCreation.navigation.worldtools.spawnEntity = Generuj jednostke
 contentCreation.navigation.worldtools.spawnParticle = Generuj czasteczke
-contentCreation.navigation.worldtools.changeModel = Zmień model gracza
+contentCreation.navigation.worldtools.changeModel = Zmien model gracza
 contentCreation.navigation.worldtools.tintChunk = Fragment odcienia
 contentCreation.navigation.worldtools.instances = Instancje
 contentCreation.navigation.worldtools.playSound = Odtworz dzwiek
@@ -1019,11 +1019,11 @@ devTools.gameInfo.keys.AudioEvents = Zdarzenia audio
 devTools.gameInfo.keys.SoundEffect = Efekt dzwiekowy
 devTools.gameInfo.keys.ViewDistance = Odleglosc widoku
 devTools.gameInfo.keys.Heightmap = Mapa wysokosci
-devTools.gameInfo.keys.Tint = Odcień
+devTools.gameInfo.keys.Tint = Odcien
 devTools.gameInfo.keys.Light = Swiatlo
 devTools.gameInfo.keys.Music = Muzyka
 devTools.gameInfo.keys.TargetBlock = Blok docelowy
-devTools.gameInfo.keys.HitBox = Pole trafień
+devTools.gameInfo.keys.HitBox = Pole trafien
 devTools.gameInfo.keys.Orientation = Orientacja
 devTools.gameInfo.keys.FeetPosition = Pozycja stop
 devTools.gameInfo.keys.ChunkPosition = Pozycja fragmentu
@@ -1073,10 +1073,10 @@ disconnection.autoConnectingIn = Łaczenie za {seconds}
 disconnection.error.unexpectedError = Wystapil nieoczekiwany blad
 disconnection.error.noConnectectionEstablished = Nie mozna nawiazac polaczenia
 # === Widok ladowania gry ===
-gameLoadingView.hints.constructionThanks = Dziekujemy za kupno gry, poki jestesmy w budowie!
+gameLoadingView.hints.constructionThanks = Dziekujemy za gre, poki jestesmy w budowie!
 gameLoadingView.hints.futureTipsAndTricks = Na tym ekranie znajdziesz porady i wskazowki, ktore pomoga Ci w Twojej przygodzie.
 
-gameLoadingView.status.waitingForShutdown = Oczekiwanie na zakończenie wylaczania serwera...
+gameLoadingView.status.waitingForShutdown = Oczekiwanie na zakonczenie wylaczania serwera...
 gameLoadingView.status.connecting = Łaczenie...
 gameLoadingView.status.connectingP2P = Łaczenie z hostem {host} '{name}'... ({current}/{total})
 gameLoadingView.status.bootingServer = Uruchamianie serwera...
@@ -1104,8 +1104,8 @@ general.button.resetDefaults = Przywroc ustawienia domyslne
 general.button.close = Zamknij
 general.button.back = Wstecz
 general.button.add = Dodaj
-general.button.delete = Usuń
-general.button.remove = Usuń
+general.button.delete = Usun
+general.button.remove = Usun
 general.button.edit = Edytuj
 general.button.select = Wybierz
 general.button.browse = Przegladaj
@@ -1129,7 +1129,7 @@ general.relativeTime.minute = minute temu
 general.relativeTime.minutes = {minutes} minut temu
 general.relativeTime.hour = godzine temu
 general.relativeTime.hours = {hours} godzin temu
-general.relativeTime.day = dzień temu
+general.relativeTime.day = dzien temu
 general.relativeTime.days = {days} dni temu
 general.relativeTime.month = miesiac temu
 general.relativeTime.months = {months} ​​miesiecy temu
@@ -1168,7 +1168,7 @@ hud.networkQuality.ping.bad = Bardzo duze opoznienie (>=200 ms) - rozgrywka moze
 hud.networkQuality.jitter.good = Niski jitter (<5 ms)
 hud.networkQuality.jitter.okay = Umiarkowane drgania (5-15 ms) - mozna zauwazyc niewielkie zacinanie sie.
 hud.networkQuality.jitter.poor = Wysokie drgania (15–30 ms) - rozgrywka moze wydawac sie nierowna.
-hud.networkQuality.jitter.bad = Bardzo wysoki jitter (>=30 ms) - moga wystepowac czeste skoki opoznień lub efekt gumowania.
+hud.networkQuality.jitter.bad = Bardzo wysoki jitter (>=30 ms) - moga wystepowac czeste skoki opoznien lub efekt gumowania.
 hud.networkQuality.packetLoss.good = Niska utrata pakietow (<0,1%)
 hud.networkQuality.packetLoss.okay = Umiarkowana utrata pakietow (0,1–1%) — moga wystapic sporadyczne opoznienia lub brakujace akcje.
 hud.networkQuality.packetLoss.poor = Wysoki poziom utraty pakietow (1-3%) — niektore dzialania lub aktualizacje moga nie zostac zarejestrowane.
@@ -1229,7 +1229,7 @@ inventory.crafting.button.crafting = Tworzenie...
 inventory.crafting.unknownItem = Nieznany przedmiot
 
 inventory.crafting.unknownItem.knowledgeRequired = Przepis nie zostal jeszcze odkryty
-inventory.crafting.unknownItem.memoriesCountRequired = Znajdz <color is="#f1ba50">Zapomniana Swiatynie</color> i przywroc {memories} wspomnień, aby odblokowac ten przepis!
+inventory.crafting.unknownItem.memoriesCountRequired = Znajdz <color is="#f1ba50">Zapomniana Swiatynie</color> i przywroc {memories} wspomnien, aby odblokowac ten przepis!
 inventory.crafting.lockedItem.benchTierLevelRequired = Wymagany poziom {benchname}
 
 inventory.bench.tierLevelX = Poziom {level}
@@ -1238,7 +1238,7 @@ inventory.bench.tierLevelX.upgrade = Uaktualnij do poziomu {level}
 inventory.bench.tier.button.upgrade = Uaktualnij
 inventory.bench.tier.max = OSIĄGNIĘTO MAKSYMALNY POZIOM
 
-inventory.crafting.ingredient.tooltip.pullingFromChests = Nie masz wystarczajacej ilosci skladnikow w ekwipunku. Uzyj przedmiotow z pobliskich skrzyń.
+inventory.crafting.ingredient.tooltip.pullingFromChests = Nie masz wystarczajacej ilosci skladnikow w ekwipunku. Uzyj przedmiotow z pobliskich skrzyn.
 
 inventory.crafting.options.hideUnknownRecipes = Ukryj nieznane przepisy
 
@@ -1259,7 +1259,7 @@ inventory.recipeCataloguePopup.title = Katalog przepisow
 
 inventory.fieldcraft.title = Kieszonkowe rzemioslo
 
-inventory.storage.filterTooltips.weapons = Pokaz tylko broń
+inventory.storage.filterTooltips.weapons = Pokaz tylko bron
 inventory.storage.filterTooltips.armor = Pokaz tylko zbroje
 inventory.storage.filterTooltips.blocks = Pokaz tylko materialy budowlane
 
@@ -1275,9 +1275,9 @@ inventory.action.toggleBuilderTools = Przelacz narzedzia konstruktora
 inventory.action.pickHalf = Wez polowe
 inventory.action.pickOne = Wez Jeden
 inventory.action.smartMove = Transfer
-inventory.action.resize = Zmień rozmiar
+inventory.action.resize = Zmien rozmiar
 Inventory.action.placeOne = Umiesc pierwszy
-inventory.action.resizeMod = Zmień rozmiar x5
+inventory.action.resizeMod = Zmien rozmiar x5
 # === itemTooltip ===
 itemTooltip.resourceType.name = Zasob: {name}
 itemTooltip.id = ID:
@@ -1292,7 +1292,7 @@ itemTooltip.stats.Stamina = Wytrzymalosc
 itemTooltip.stats.Mana = Mana
 itemTooltip.stats.Oxygen = Tlen
 itemTooltip.stats.Defense = Obrona
-itemTooltip.stats.FireResistance = Odpornosc na ogień
+itemTooltip.stats.FireResistance = Odpornosc na ogien
 itemTooltip.stats.WaterResistance = Wodoodpornosc
 itemTooltip.stats.EarthResistance = Rezystancja uziemienia
 itemTooltip.stats.AirResistance = Opor powietrza
@@ -1327,7 +1327,7 @@ machinima.bindings.KeyframeIncrement = Zwieksz klatke kluczowa
 machinima.bindings.PlaybackSpeedDecrease = Zmniejsz czas odtwarzania
 machinima.bindings.PlaybackSpeedIncrease = Zwieksz czas odtwarzania
 machinima.bindings.AddKeyframe = Dodaj klatke kluczowa
-machinima.bindings.RemoveKeyframe = Usuń klatke kluczowa
+machinima.bindings.RemoveKeyframe = Usun klatke kluczowa
 machinima.bindings.EditKeyframe = Edytuj klatke kluczowa
 machinima.bindings.OriginAction = Akcja pochodzenia
 machinima.bindings.CycleSelectionMode = Tryb wyboru cyklu
@@ -1335,7 +1335,7 @@ machinima.bindings.CycleSelectionMode = Tryb wyboru cyklu
 # Naglowek
 machinima.header.placeholder.selectScene = Wybierz scene
 machinima.header.button.create = Utworz
-machinima.header.button.delete = Usuń
+machinima.header.button.delete = Usun
 machinima.header.button.save = Zapisz
 machinima.header.button.settings = Ustawienia
 machinima.header.button.help = Pomoc
@@ -1349,8 +1349,8 @@ machinima.modal.title.editActor = Edytuj aktora
 machinima.modal.title.editKeyframeEvent = Edycja zdarzenia klatki kluczowej
 machinima.modal.title.addKeyframeSetting = Dodaj ustawienie klatki kluczowej
 machinima.modal.title.addKeyframeEvent = Dodaj zdarzenie klatki kluczowej
-machinima.modal.title.deleteEvent = Usuń zdarzenie
-machinima.modal.title.deleteScene = Usuń scene
+machinima.modal.title.deleteEvent = Usun zdarzenie
+machinima.modal.title.deleteScene = Usun scene
 
 # Przyciski modalne
 machinima.modal.button.close = Zamknij
@@ -1359,7 +1359,7 @@ machinima.modal.button.createScene = Utworz scene
 machinima.modal.button.createActor = Utworz aktora
 machinima.modal.button.addSetting = Dodaj ustawienie
 machinima.modal.button.addEvent = Dodaj zdarzenie
-machinima.modal.button.delete = Usuń
+machinima.modal.button.delete = Usun
 
 # Wiadomosci modalne
 machinima.modal.message.deleteEvent = Czy chcesz usunac zdarzenie '{name}'?
@@ -1396,8 +1396,8 @@ machinima.keyframe.tab.events = Wydarzenia
 machinima.keyframe.button.addSetting = Dodaj ustawienie
 machinima.keyframe.button.addEvent = Dodaj zdarzenie
 machinima.keyframe.button.edit = Edytuj
-machinima.keyframe.button.delete = Usuń
-machinima.keyframe.tooltip.deleteEvent = Usuń zdarzenie
+machinima.keyframe.button.delete = Usun
+machinima.keyframe.tooltip.deleteEvent = Usun zdarzenie
 # === Menu glowne ===
 # Nawigacja
 
@@ -1544,7 +1544,7 @@ mainMenu.worlds.creativeModeHub = Centrum kreatywne
 mainMenu.worlds.creativeModeGenerated = [TMP] Wygenerowany swiat
 mainMenu.worlds.npcSpawning = NPC-e
 mainMenu.worlds.noNpcSpawning = Brak NPC
-mainMenu.worlds.deleteWorld = Usuń swiat
+mainMenu.worlds.deleteWorld = Usun swiat
 mainMenu.worlds.deleteWorldConfirmation = Czy na pewno chcesz usunac swiat „{name}”?
 mainMenu.worlds.openFolder = Otworz folder
 mainMenu.worlds.createWorld = Utworz swiat
@@ -1559,7 +1559,7 @@ mainMenu.worlds.settings.enabled = Wlaczone
 mainMenu.worlds.settings.disabled = Wylaczone
 mainMenu.worlds.settings.fallDamage = Obrazenia od upadku
 mainMenu.worlds.settings.pauseTime = Czas pauzy
-mainMenu.worlds.settings.dayNightCycle = [TMP] Cykl dzień/noc
+mainMenu.worlds.settings.dayNightCycle = [TMP] Cykl dzien/noc
 mainMenu.worlds.settings.dayDuration = [TMP] Czas trwania dnia (sekundy)
 mainMenu.worlds.settings.nightDuration = [TMP] Czas trwania nocy (sekundy)
 mainMenu.worlds.settings.customTime = [TMP] Czas niestandardowy
@@ -1601,7 +1601,7 @@ map.title = Mapa swiata
 map.contextMenu.teleport = Teleportuj
 map.contextMenu.selectLocation = Wybierz lokalizacje
 map.contextMenu.deselectLocation = Odznacz lokalizacje
-map.contextMenu.removeMarker = Usuń znacznik
+map.contextMenu.removeMarker = Usun znacznik
 
 map.disabled = Nieznana lokalizacja
 
@@ -1683,11 +1683,11 @@ myAvatar.tabs.Cape = Peleryny
 myAvatar.tabs.Emotes = Emotikony
 
 myAvatar.baseProperties.bodyType = Typ ciala
-myAvatar.baseProperties.skinTone = Odcień skory
+myAvatar.baseProperties.skinTone = Odcien skory
 myAvatar.baseProperties.options = Opcje
 
 myAvatar.baseProperties.bodyTypes.masculine = Meski
-myAvatar.baseProperties.bodyTypes.feminine = Rodzaj zeński
+myAvatar.baseProperties.bodyTypes.feminine = Rodzaj zenski
 
 myAvatar.color = Kolor
 
@@ -1782,7 +1782,7 @@ ustawienia.maxPlaySelectGizmoSize = Maksymalny rozmiar Gizmo
 
 ustawienia.paintOperationIgnoreHistoryLength = Odtworz Paint Ignoruj ​​dlugosc historii
 
-# Kategorie szybkich ustawień
+# Kategorie szybkich ustawien
 ustawienia.kategoria.ruchLot = Ruch i lot
 settings.category.placementSettings = Ustawienia rozmieszczenia
 settings.category.toolSettings = Ustawienia narzedzi
@@ -1792,7 +1792,7 @@ settings.category.selectionSettings = Ustawienia wyboru
 settings.category.uiVisibility = widocznosc interfejsu uzytkownika
 settings.category.displayNotifications = Wyswietlanie i powiadomienia
 
-# Etykiety szybkich ustawień
+# Etykiety szybkich ustawien
 settings.noClip = No clip
 ustawienia.flightMode = Tryb lotu
 ustawienia.flightMode.hover = Przytrzymaj
@@ -1816,7 +1816,7 @@ settings.laserPointerColor = Kolor wskaznika laserowego
 settings.laserPointerColor.description = Domyslny kolor szesnastkowy narzedzia wskaznika laserowego
 ustawienia.fullbright = Fullbright
 
-# Interfejs uzytkownika szybkich ustawień
+# Interfejs uzytkownika szybkich ustawien
 settings.dragToReorder = Przeciagnij, aby zmienic kolejnosc
 settings.resetToDefaults = Przywroc ustawienia domyslne
 settings.resetToDefaults.tooltip = Przywroc wszystkie szybkie ustawienia do wartosci domyslnych
@@ -1855,8 +1855,8 @@ ustawienia.sprintFovIntensity = Intensywnosc pola widzenia sprintu
 settings.viewBobbingEffect = Wyswietl efekt kolysania
 settings.viewBobbingIntensity = Wyswietl intensywnosc bobbingu
 ustawienia.cameraShakeEffect = Efekt drzenia kamery
-ustawienia.firstPersonCameraShakeIntensity = Intensywnosc drgań kamery w widoku pierwszoosobowym
-ustawienia.thirdPersonCameraShakeIntensity = Intensywnosc drgań kamery trzeciej osoby
+ustawienia.firstPersonCameraShakeIntensity = Intensywnosc drgan kamery w widoku pierwszoosobowym
+ustawienia.thirdPersonCameraShakeIntensity = Intensywnosc drgan kamery trzeciej osoby
 ustawienia.creativeInteractionDistance = Odleglosc interakcji kreatywnych
 settings.adventureInteractionDistance = Ogolna odleglosc interakcji
 settings.gizmoScaleMultiplier = Obrot/Przesuniecie Skala interfejsu uzytkownika Gizmo
@@ -1882,12 +1882,12 @@ settings.placementPreview.description = Definiuje, dla jakich typow blokow bedzi
 settings.placementPreview.none = Brak
 settings.placementPreview.all = Wszystkie
 ustawienia.placementPreview.multipart = Multipart
-settings.displayCombatText = Pokaz liczby obrazeń
-settings.displayCombatText.description = Okresla, czy wyswietlac elementy takie jak wartosci obrazeń, gdy serwer je wlaczy. Jesli serwer wylaczy te funkcje, tekst walki nie bedzie wyswietlany niezaleznie od tego ustawienia.
+settings.displayCombatText = Pokaz liczby obrazen
+settings.displayCombatText.description = Okresla, czy wyswietlac elementy takie jak wartosci obrazen, gdy serwer je wlaczy. Jesli serwer wylaczy te funkcje, tekst walki nie bedzie wyswietlany niezaleznie od tego ustawienia.
 settings.displayEntityStatBars = Pokaz paski stanu jednostki
 settings.displayEntityStatBars.description = Okresla, czy interfejs uzytkownika paska stanu (tj. stan) bedzie wyswietlany nad encjami po wlaczeniu przez serwer. Jesli serwer wylaczy te funkcje, paski stanu nie beda wyswietlane niezaleznie od tego ustawienia.
 settings.displayNetworkQualityWarnings = Ostrzezenia dotyczace jakosci sieci reklamowej
-settings.displayNetworkQualityWarnings.description = Okresla, czy wyswietlac ikony ostrzezeń o jakosci sieci na wyswietlaczu HUD.
+settings.displayNetworkQualityWarnings.description = Okresla, czy wyswietlac ikony ostrzezen o jakosci sieci na wyswietlaczu HUD.
 settings.displayInputBindingsOnHud = Wyswietl powiazania wejsciowe w HUD
 settings.displayInputBindingsOnHud.description = Czy wyswietlac kontekstowe skroty klawiszowe w HUD.
 settings.hideHud = Ukryj HUD
@@ -1897,7 +1897,7 @@ settings.hideHotbar.description = Ukryj pasek skrotow i powiazane z nim elementy
 settings.hideCompass = Ukryj kompas
 settings.hideCompass.description = Ukryj kompas.
 settings.hideNotifications = Ukryj powiadomienia
-settings.hideNotifications.description = Ukryj wyskakujace okienka powiadomień.
+settings.hideNotifications.description = Ukryj wyskakujace okienka powiadomien.
 settings.hideChat = Ukryj czat
 settings.hideChat.description = Ukryj okno czatu (nie uniemozliwia odbierania wiadomosci).
 settings.hideHeldItem = Ukryj trzymany element
@@ -2000,12 +2000,12 @@ ustawienia.defaultAudioDevice = Domyslne
 
 settings.bindingPopup.bind = Powiaz "{binding}"
 settings.bindingPopup.pressKey = Nacisnij dowolny klawisz lub esc, aby anulowac
-settings.bindings.clear = Usuń aktualne powiazanie klawiszy.
+settings.bindings.clear = Usun aktualne powiazanie klawiszy.
 
-settings.bindings.MoveForwards = Przesuń do przodu
-settings.bindings.MoveBackwards = Przesuń do tylu
-settings.bindings.StrafeLeft = Przesuń w lewo
-settings.bindings.StrafeRight = Przesuń w prawo
+settings.bindings.MoveForwards = Przesun do przodu
+settings.bindings.MoveBackwards = Przesun do tylu
+settings.bindings.StrafeLeft = Przesun w lewo
+settings.bindings.StrafeRight = Przesun w prawo
 ustawienia.powiazania.Jump = Jump
 ustawienia.powiazania.Crouch = Kucanie/Slizg/Toczenie
 settings.bindings.Crouch.description = <b>Slizg</b>: Nacisnij ten skrot klawiszowy podczas sprintu, aby wykonac slizg.\n<b>Obrot</b>: Nacisnij ten skrot klawiszowy podczas spadania, aby wykonac przewrot.
@@ -2035,7 +2035,7 @@ settings.bindings.ToggleProfiling = Przelacz profilowanie
 settings.bindings.SwitchHudVisibility = Przelacz widocznosc HUD
 settings.bindings.ToggleFullscreen = Przelacz tryb pelnoekranowy
 ustawienia.bindings.Command = Polecenie
-settings.bindings.Command.description = Nacisnij, aby otworzyc okno czatu z wpisanym znakiem „/”, aby wprowadzic polecenie serwera. Lista poleceń serwera jest dostepna po wpisaniu /help.
+settings.bindings.Command.description = Nacisnij, aby otworzyc okno czatu z wpisanym znakiem „/”, aby wprowadzic polecenie serwera. Lista polecen serwera jest dostepna po wpisaniu /help.
 settings.bindings.TakeScreenshot = Zrob zrzut ekranu
 settings.bindings.IncreaseSpeedMultiplier = Zwieksz mnoznik predkosci
 settings.bindings.DecreaseSpeedMultiplier = Zmniejsz mnoznik predkosci
@@ -2067,9 +2067,9 @@ settings.bindings.Ability2ItemAction = Uzyj umiejetnosci 2
 settings.bindings.Ability3ItemAction = Uzyj umiejetnosci 3
 ustawienia.bindings.UndoItemAction = Cofnij
 ustawienia.bindings.RedoItemAction = Ponow
-settings.bindings.AddRemoveFavoriteMaterialItemAction = Dodaj/Usuń ulubiony material
+settings.bindings.AddRemoveFavoriteMaterialItemAction = Dodaj/Usun ulubiony material
 settings.bindings.DismountAction = Montuj/Odmontuj
-settings.bindings.AlternatePlaySculptBrushModeModifier = Zmień modyfikator pedzla rzezbiacego
+settings.bindings.AlternatePlaySculptBrushModeModifier = Zmien modyfikator pedzla rzezbiacego
 settings.bindings.UsePaintModeForBrush = Uzyj trybu malowania dla pedzla
 settings.bindings.SelectBlockFromSet = Wybierz blok z zestawu
 settings.bindings.PastePreview = Wklej podglad
