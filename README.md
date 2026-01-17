@@ -10,5 +10,5 @@ Polish language pack for Hytale. The goal is to offer a more natural experience 
 Polski pakiet językowy dla gry Hytale. Celem jest zapewnienie bardziej naturalnych wrażeń podczas codziennej rozgrywki poprzez przetłumaczenie tekstów interfejsu i popularnych komunikatów, aby gra i konfiguracja wszystkich elementów były bardziej komfortowe w Polsce Dla gry [Hytale](https://hytale.com/)
 
 > To tłumaczenie jest w trakcie rozwoju: mogą się w nim znaleźć nieprzetłumaczone frazy lub wyrażenia, które można poprawić. Zostanie ono udoskonalone i rozszerzone w przyszłych aktualizacjach.
->
-> Jeśli chcesz przesłać swoje poprawki, utwórz [pull request](https://github.com/maxwhitepl/Hytale/pulls) i wyślij go nam a my sprawdzimy go i gdy będzie wszystko okej scalimy go z projektem oraz oznaczeniem autora poprawek
+
+Jeśli chcesz przesłać swoje poprawki, utwórz [pull request](https://github.com/maxwhitepl/Hytale/pulls) i wyślij go nam a my sprawdzimy go i gdy będzie wszystko okej scalimy go z projektem oraz oznaczeniem autora poprawek
