@@ -13,3 +13,5 @@ Polski pakiet językowy dla gry Hytale. Celem jest zapewnienie bardziej naturaln
 > To tłumaczenie jest w trakcie rozwoju: mogą się w nim znaleźć nieprzetłumaczone frazy lub wyrażenia, które można poprawić. Zostanie ono udoskonalone i rozszerzone w przyszłych aktualizacjach.
 
 Jeśli chcesz przesłać swoje poprawki, utwórz [pull request](https://github.com/maxwhitepl/Hytale/pulls) i wyślij go nam a my sprawdzimy go i gdy będzie wszystko okej scalimy go z projektem oraz oznaczeniem autora poprawek
+
+Nasz Discord: [LINK](https://discord.gg/h3TE8vJabR)
